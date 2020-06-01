@@ -130,8 +130,9 @@
 - [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [https://github.com/fukuball/Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education)
 
-## News, Inspiration
+## Tutorial, News, Inspiration
 
+- Laravel Deep Dive [https://divinglaravel.com/](https://divinglaravel.com/)
 - Made With Laravel [https://madewithlaravel.com/](https://madewithlaravel.com/)
 - Laravel News [https://laravel-news.com/](https://laravel-news.com/)
 - PHP-CPP A C++ library for developing PHP extensions. [http://www.php-cpp.com/](http://www.php-cpp.com/)
