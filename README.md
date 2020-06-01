@@ -48,6 +48,7 @@
 
 - Tinkerwell [https://tinkerwell.app/?ref=marcel](https://tinkerwell.app/?ref=marcel)
 - VSCode Pro by Ahmad Awais [https://vscode.pro/](https://vscode.pro/)
+- 7 Essential PhpStorm tips & tricks to boost your productivity [https://www.youtube.com/watch?v=EwL_1wbg-rQ](https://www.youtube.com/watch?v=EwL_1wbg-rQ) 
 - Laravel API Doc generator [https://laravel-apidoc-generator.readthedocs.io/en/latest/](https://laravel-apidoc-generator.readthedocs.io/en/latest/). This cool package, can generate Postman collection
 - Laravel Tests Generator [https://laravelshift.com/laravel-test-generator](https://laravelshift.com/laravel-test-generator)
 
