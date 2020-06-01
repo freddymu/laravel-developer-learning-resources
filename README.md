@@ -60,7 +60,6 @@
 
 ## Videos
 
-- Laravel Daily Course [https://laraveldaily.teachable.com/courses](https://laraveldaily.teachable.com/courses)
 - UI Design for Developer [https://refactoringui.com/](https://refactoringui.com/)
 - Getting Git [https://gettinggit.com/](https://gettinggit.com/)
 - Never Write Loop Again [https://adamwathan.me/refactoring-to-collections/](https://adamwathan.me/refactoring-to-collections/)
