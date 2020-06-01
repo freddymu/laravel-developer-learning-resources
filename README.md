@@ -1,6 +1,6 @@
 # Laravel Developer Learning Resources
 
-- [Laravel Developer Learning Resources](#laravel-developer-learning-resources)
+- Table of Contents
   - [Clean Code, Code Style, Conventions](#clean-code-code-style-conventions)
   - [Security](#security)
   - [Test-Driven Development](#test-driven-development)
