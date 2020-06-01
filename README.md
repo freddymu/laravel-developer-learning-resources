@@ -28,7 +28,7 @@
   - From no tests to confidently tested [https://confidentlaravel.com/](https://confidentlaravel.com/)
   - Test Driven Laravel [https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y](https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y)
 
-## Quality Assurance
+## Code Quality, Code Profiler Tools
 
 - [https://edgedesigncz.github.io/phpqa/](https://edgedesigncz.github.io/phpqa/)
 - [https://phpqa.io/](https://phpqa.io/)
