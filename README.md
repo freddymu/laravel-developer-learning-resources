@@ -48,6 +48,8 @@
 
 - Tinkerwell [https://tinkerwell.app/?ref=marcel](https://tinkerwell.app/?ref=marcel)
 - VSCode Pro by Ahmad Awais [https://vscode.pro/](https://vscode.pro/)
+- Laravel API Doc generator [https://laravel-apidoc-generator.readthedocs.io/en/latest/](https://laravel-apidoc-generator.readthedocs.io/en/latest/). This cool package, can generate Postman collection
+- Laravel Tests Generator [https://laravelshift.com/laravel-test-generator](https://laravelshift.com/laravel-test-generator)
 
 ## Package Development
 
