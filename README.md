@@ -61,7 +61,6 @@
 ## Videos
 
 - Laravel Daily Course [https://laraveldaily.teachable.com/courses](https://laraveldaily.teachable.com/courses)
-- Build an API with Laravel [https://buildanapi.com/](https://buildanapi.com/)
 - UI Design for Developer [https://refactoringui.com/](https://refactoringui.com/)
 - Getting Git [https://gettinggit.com/](https://gettinggit.com/)
 - Never Write Loop Again [https://adamwathan.me/refactoring-to-collections/](https://adamwathan.me/refactoring-to-collections/)
@@ -105,6 +104,7 @@
 | ![PHP: The "Right" Way](https://d2sofvawe08yqg.cloudfront.net/phptherightway/hero?1549430989]) | PHP: The "Right" Way, Latest update: [https://phptherightway.com/](https://phptherightway.com/)|
 | ![Laravel v6.0](https://buku-laravel-vue.com/assets/img-optimized/books/book-mockup-laravel-1-min.png.webp?6.0)| Laravel v6.0 |
 | ![PHPUnit Explained](https://phpunitexplained.com/img/ebook-cover.jpg) | PHPUnit Explained - Everything you need to know about the leading test framework [https://phpunitexplained.com/](https://phpunitexplained.com/) |
+| ![Build an API with Laravel](https://buildanapi.com/images/build-an-api-with-laravel-wacky-studio-cover.jpg) | Build an API with Laravel [https://buildanapi.com/](https://buildanapi.com/)|
 
 ## Laravel Admin Tools
 
