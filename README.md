@@ -101,10 +101,10 @@
 | ![Architecture of complex web applications: With examples in Laravel(PHP)](https://m.media-amazon.com/images/I/41C9jaRLYTL._AC_UY218_.jpg) | Architecture of complex web applications: With examples in Laravel(PHP) |
 | ![Domain-Driven Laravel: Learn to Implement Domain-Driven Design Using Laravel](https://m.media-amazon.com/images/I/61jUZvCow9L._AC_UY218_.jpg) | Domain-Driven Laravel: Learn to Implement Domain-Driven Design Using Laravel |
 | ![Kolaborasi Laravel dan Database PostgreSQL di Linux (Indonesian Edition)](https://m.media-amazon.com/images/I/41Au7Xp2dDL._AC_UY218_.jpg) | Kolaborasi Laravel dan Database PostgreSQL di Linux (Indonesian Edition) |
-| ![PHP: The "Right" Way](https://d2sofvawe08yqg.cloudfront.net/phptherightway/hero?1549430989]) | PHP: The "Right" Way, Latest update: [https://phptherightway.com/](https://phptherightway.com/)|
-| ![Laravel v6.0](https://buku-laravel-vue.com/assets/img-optimized/books/book-mockup-laravel-1-min.png.webp?6.0)| Laravel v6.0 |
-| ![PHPUnit Explained](https://phpunitexplained.com/img/ebook-cover.jpg) | PHPUnit Explained - Everything you need to know about the leading test framework [https://phpunitexplained.com/](https://phpunitexplained.com/) |
-| ![Build an API with Laravel](https://buildanapi.com/images/build-an-api-with-laravel-wacky-studio-cover.jpg) | Build an API with Laravel [https://buildanapi.com/](https://buildanapi.com/)|
+| <img src="https://d2sofvawe08yqg.cloudfront.net/phptherightway/hero?1549430989]" alt="PHP The Right Way" width=200 /> | PHP: The "Right" Way, Latest update: [https://phptherightway.com/](https://phptherightway.com/)|
+| <img src="https://buku-laravel-vue.com/assets/img-optimized/books/book-mockup-laravel-1-min.png.webp?6.0" alt="Laravel 6 Book Indonesia" width=250 />| Laravel v6.0 |
+| <img src="https://phpunitexplained.com/img/ebook-cover.jpg" width=220 alt="PHPUnit Explained" /> | PHPUnit Explained - Everything you need to know about the leading test framework [https://phpunitexplained.com/](https://phpunitexplained.com/) |
+| <img src="https://buildanapi.com/images/build-an-api-with-laravel-wacky-studio-cover.jpg" alt="Build API with Laravel" width=200 /> | Build an API with Laravel [https://buildanapi.com/](https://buildanapi.com/)|
 
 ## Laravel Admin Tools
 
