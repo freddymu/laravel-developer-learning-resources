@@ -88,8 +88,7 @@
 | ![Kolaborasi Laravel dan Database PostgreSQL di Linux (Indonesian Edition)](https://m.media-amazon.com/images/I/41Au7Xp2dDL._AC_UY218_.jpg) | Kolaborasi Laravel dan Database PostgreSQL di Linux (Indonesian Edition) |
 | ![PHP: The "Right" Way](https://d2sofvawe08yqg.cloudfront.net/phptherightway/hero?1549430989]) | PHP: The "Right" Way, Latest update: [https://phptherightway.com/](https://phptherightway.com/)|
 | ![Laravel v6.0](https://buku-laravel-vue.com/assets/img-optimized/books/book-mockup-laravel-1-min.png.webp?6.0)| Laravel v6.0 |
-| ![PHPUnit Explained](https://phpunitexplained.com/img/ebook-cover.jpg) | PHPUnit Explained - Everything you need to know about the leading test framework [https://phpunitexplained.com/](https://phpunitexplained.com/)
-|
+| ![PHPUnit Explained](https://phpunitexplained.com/img/ebook-cover.jpg) | PHPUnit Explained - Everything you need to know about the leading test framework [https://phpunitexplained.com/](https://phpunitexplained.com/) |
 
 ## Laravel Admin Tools
 
