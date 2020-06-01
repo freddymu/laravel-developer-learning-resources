@@ -77,6 +77,22 @@
 - Laravel Online Conference [https://laracon.net](https://laracon.net)
 - Build a Chatbot [https://course.buildachatbot.io/?ref=landing-page](https://course.buildachatbot.io/?ref=landing-page)
 
+## Laravel Conferences Videos
+
+- [Laracon EU 2013](https://www.youtube.com/watch?v=qkIsTtIcTBE&list=PLMdXHJK-lGoB-CIVsiQt0WU8WcYrb5eoe)
+- [Laracon EU 2014](https://www.youtube.com/watch?v=QaIGN_cTcc8&list=PLMdXHJK-lGoCYhxlU3OJ5bOGhcKtDMkcN)
+- [Laracon EU 2015](https://www.youtube.com/watch?v=6KsiDUFH24g&list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ)
+- [Laracon EU 2016](https://www.youtube.com/watch?v=8LdpsSJIUto&list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN)
+- [Laracon EU 2017](https://www.youtube.com/watch?v=JPxhnRh1Rr8&list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2)
+- [Laracon EU 2018](https://www.youtube.com/watch?v=xwsdUVd5UT8&list=PLMdXHJK-lGoC64wnqvm6v1R5dsuAV-MpS)
+- [Laracon EU 2019](https://www.youtube.com/watch?v=kKGGVGiq2y8&list=PLMdXHJK-lGoDhWZ6YJW5B79CDoHWZwDN1)
+- [Laracon US 2016](https://www.youtube.com/watch?v=4ZIuy8YcerI&list=PL-yJve--iT5o9fH_cRY0u6P751pcF59GK)
+- [Laracon US 2017](https://www.youtube.com/watch?v=iYCy6bo7omk&list=PL-yJve--iT5oaLQA6OI8TWLVSOBP1qhs3)
+- [Laracon US 2018](https://www.youtube.com/watch?v=3eyftAR5ilo&list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc)
+- [Laracon US 2019](https://www.youtube.com/playlist?list=PL-yJve--iT5qZzp0VzYaPA7ZohLl6tSdp)
+- [Laracon AU 2018 ](https://www.youtube.com/watch?v=UyaejTqR3Tc&list=PLEkJYA4gJb7_FKspNTgrve7FUb3A1dT3y)
+- [Laracon AU 2019](https://www.youtube.com/watch?v=A7JEfsUeey0&list=PLEkJYA4gJb78lIOKjZ0tJ9rWszT6uCTJH)
+
 ## Books
 
 |Cover|Title|
