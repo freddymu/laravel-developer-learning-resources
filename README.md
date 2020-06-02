@@ -38,6 +38,7 @@
   - **Behat** is a php framework for autotesting your business expectations. [http://behat.org/en/latest/quick_start.html](http://behat.org/en/latest/quick_start.html)
   - **PHPUnit** [https://phpunit.de/](https://phpunit.de/)
   - **Codeception** [https://codeception.com/](https://codeception.com/)
+  - PEST - PHPUnit is great! Pest just provides a different API to create tests. [https://pestphp.com/](https://pestphp.com/)
 - Online Course
   - A comprehensive step-by-step video course on designing robust Laravel applications with TDD. [https://course.testdrivenlaravel.com/](https://course.testdrivenlaravel.com/)
   - From no tests to confidently tested [https://confidentlaravel.com/](https://confidentlaravel.com/)
