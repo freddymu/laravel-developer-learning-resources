@@ -27,8 +27,9 @@
 
 ## Security
 
-- The 2018 Guide to Building Secure PHP Software [https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
+- The Laravel Security Checklist [https://www.sqreen.com/resources/laravel-security-checklist](https://www.sqreen.com/resources/laravel-security-checklist)
 - Survive The Deep End: PHP Security [https://phpsecurity.readthedocs.io/en/latest/index.html](https://phpsecurity.readthedocs.io/en/latest/index.html)
+- The 2018 Guide to Building Secure PHP Software [https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
 ## Test-Driven Development
 
@@ -65,6 +66,8 @@
 - 7 Essential PhpStorm tips & tricks to boost your productivity [https://www.youtube.com/watch?v=EwL_1wbg-rQ](https://www.youtube.com/watch?v=EwL_1wbg-rQ) 
 - Laravel API Doc generator [https://laravel-apidoc-generator.readthedocs.io/en/latest/](https://laravel-apidoc-generator.readthedocs.io/en/latest/). This cool package, can generate Postman collection
 - Laravel Tests Generator [https://laravelshift.com/laravel-test-generator](https://laravelshift.com/laravel-test-generator)
+- Sonarlint - Fix issues before they exist [https://www.sonarlint.org/](https://www.sonarlint.org/)
+- Php Inspections - A Static Code Analysis tool for PHP distributed as a PhpStorm / IdeaUltimate plugin. [https://kalessil.github.io/phpinspectionsea/docs/getting-started.html](https://kalessil.github.io/phpinspectionsea/docs/getting-started.html)
 
 ## Package Development
 
