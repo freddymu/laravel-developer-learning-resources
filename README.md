@@ -24,6 +24,7 @@
 - Laravel — Cleaner Code [https://medium.com/swlh/laravel-cleaner-code-46203ca3ee4d](https://medium.com/swlh/laravel-cleaner-code-46203ca3ee4d)
 - BaseCode is a field guide containing real-world practices to help you write code that's less complex and more readable. [https://basecodefieldguide.com](https://basecodefieldguide.com)
 - Laravel Best Practices [https://github.com/alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices)
+- Laravel & PHP Style Guide by Spatie [https://guidelines.spatie.be/code-style/laravel-php](https://guidelines.spatie.be/code-style/laravel-php) 
 
 ## Security
 
@@ -43,6 +44,7 @@
   - A comprehensive step-by-step video course on designing robust Laravel applications with TDD. [https://course.testdrivenlaravel.com/](https://course.testdrivenlaravel.com/)
   - From no tests to confidently tested [https://confidentlaravel.com/](https://confidentlaravel.com/)
   - Test Driven Laravel [https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y](https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y)
+  - Indepth Laravel [https://indepthlaravel.com/](https://indepthlaravel.com/)
 
 ## Code Quality, Code Profiler Tools
 
@@ -78,6 +80,7 @@
 - Laravel Package Development using Laravel 5.8 by Coder's Tape
   - [https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
   - [https://coderstape.com/series/1-laravel-package-development](https://coderstape.com/series/1-laravel-package-development)
+- A premium video course by Spatie, Learn how to create a Laravel package - Become the next package maestro [https://laravelpackage.training/](https://laravelpackage.training/)
 
 ## Videos
 
@@ -95,6 +98,7 @@
 - Advanced Laravel: 14 Topics and Links to Learn Them [https://laraveldaily.com/advanced-laravel-20-topics-and-links-to-learn-them/](https://laraveldaily.com/advanced-laravel-20-topics-and-links-to-learn-them/)
 - Laravel Online Conference [https://laracon.net](https://laracon.net)
 - Build a Chatbot [https://course.buildachatbot.io/?ref=landing-page](https://course.buildachatbot.io/?ref=landing-page)
+- Indepth Laravel [https://indepthlaravel.com/](https://indepthlaravel.com/)
 
 ## Laravel Conferences Videos
 
